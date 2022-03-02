@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "http://www.subculscience.media/"
+baseURL = "https://www.subculscience.media/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "サブカル科学研究会の創作物"
@@ -71,7 +71,7 @@ canonifyurls = true
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
-  # twitter = "thibaudlepretre"
+  twitter = "Vx5tN"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
   # googlePlus = "+ThibaudLepretre"
 
@@ -119,7 +119,7 @@ canonifyurls = true
   # -----------
   # Description
   # -----------
-  description = "Hugo tranquilpeak theme demo"
+  description = "サブカル科学研究会の創作物関連"
 
   # ------------------
   # Syntax highlighter
