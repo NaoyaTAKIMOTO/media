@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://www.subculscience.media/"
+baseURL = "http://www.subculscience.media/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "サブカル科学研究会の創作物"
@@ -62,9 +62,9 @@ canonifyurls = true
 # ------
 [author]
   name = "サブカル科学研究会"
-  bio = "Super bio with markdown support **COOL**"
-  job = "Your job title"
-  location = "France"
+  bio = "創作活動の記録"
+  job = "ITエンジニア"
+  location = "日本"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "ibanstraght@gmail.com"
   # Your profile picture
@@ -96,12 +96,7 @@ canonifyurls = true
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
   url = "/tags"
-[[menu.main]]
-  weight = 4
-  identifier = "archives"
-  name = "Archives"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
-  url = "/archives"
+
 [[menu.main]]
   weight = 5
   identifier = "about"
@@ -109,18 +104,6 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
   url = "/#about"
 
-[[menu.links]]
-  weight = 1
-  identifier = "github"
-  name = "GitHub"
-  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
-  url = "https://github.com/kakawait"
-[[menu.links]]
-  weight = 2
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-stack-overflow\" aria-hidden=\"true\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
 
 [[menu.misc]]
   weight = 1
