@@ -50,4 +50,4 @@ tags: [音楽,音楽理論]
 ## 参考リンク
 [セカンダリードミナントコード｜成り立ちとその表記などをわかりやすく解説](https://sakkyoku.info/theory/secondary-dominant/)
 
-<div data-vc_mylinkbox_id="887689621"></div>
+<div data-vc_mylinkbox_id="887692553"></div>
