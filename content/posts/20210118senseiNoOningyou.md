@@ -3,9 +3,9 @@ title: "せんせいのお人形 4巻の感想"
 description: ""
 date: "2021-01-18T15:24:14+09:00"
 thumbnail: ""
-tags: [漫画,書籍,感想]
+tags: [漫画,書籍,感想,教育]
 ---
-
+{{< toc >}}
 ## あらすじ
 スミカは編入試験に合格し、名門高校での生活が始まる。
 
@@ -35,4 +35,23 @@ tags: [漫画,書籍,感想]
   - 昭明は自身に正しさを課している
   - それは彼自身の信仰に由来するものだろうか？
 
+## 義理の家族漫画
+
+- うさぎドロップも義理の親子という感じ
+- この子が大きくなっていくのが結構心に来るんだよなぁ
+  - この子を育てるために主人公が仕事を調整したり、といった描写に主人公が親になろうとしているところを感じる
+  - 一方で自分を犠牲にして親になるということでもある
+<div data-vc_mylinkbox_id="887698456"></div>
+- パパと親父のウチご飯はシングルファザー同士が協力して家族の形を模索する話
+  - 料理が主題かな？
+<div data-vc_mylinkbox_id="887698332"></div>
+- ３月のライオンは将棋の師匠である義理の家族と上手く行かず、一方で逃げ出した先の和菓子屋の家では家族の温かみに触れる
+  - そのどちらとも距離感を測りかねているんだよなぁ。不器用。
+  - でもそんなに人間関係や人生を上手くできたら苦労しないよね
+    - そういう意味では登場人物みんな苦労している
+<div data-vc_mylinkbox_id="887698460"></div>
+
+## 購入はこちらから
 <div data-vc_mylinkbox_id="887692548"></div>
+
+<script language="javascript" src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3639942&pid=887698444"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3639942&pid=887698444" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3639942&pid=887698444" border="0"></a></noscript>
