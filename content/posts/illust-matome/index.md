@@ -1,10 +1,9 @@
 ---
-title: "イラスト描き方の勉強のまとめ"
+title: "イラスト描き方の勉強のまとめ サブカル科学研究会の軌跡"
 date: 2022-03-06T15:48:27+09:00
 draft: false
 tags: [イラスト,書籍,感想]
 ---
-
 
 - なんとなくピクシブやツイッターでイラストを漁るのが好きだった
 - しかし、描く方は全くしていなかった
@@ -58,6 +57,45 @@ tags: [イラスト,書籍,感想]
   - 辞書のように拾い読みするのがいいだろうか
 
 ## 自分の描く絵の変遷
+### 2020/02
+- デッサン教室に通い始めた頃
+- りんごだけに４時間かかった
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 52.5%;"><iframe src="https://embed.pixiv.net/oembed_iframe.php?type=illust&id=79419025" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 52.5%;"><iframe src="https://embed.pixiv.net/oembed_iframe.php?type=illust&id=79759048" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+
+### 2020/08
+- おじいさん、おじさんは味が出る気がする
+- モデルに忠実ではないが雰囲気がある
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 52.5%;"><iframe src="https://embed.pixiv.net/oembed_iframe.php?type=illust&id=83948640" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+
+### 2021/02
+- ファンアートを描こうとした
+- レヴィ
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 52.5%;"><iframe src="https://embed.pixiv.net/oembed_iframe.php?type=illust&id=87531423" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+
+### 2021/03
+- 同じくファンアートを描こうとした
+- ウマ娘のアグネスタキオン
+- 色鉛筆で着彩に挑戦している
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 52.5%;"><iframe src="https://embed.pixiv.net/oembed_iframe.php?type=illust&id=88763371" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+
+### 2021/08
+- パースの効いた構図で描きたくなった
+- 参考にできる資料を探すのが難しい
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 52.5%;"><iframe src="https://embed.pixiv.net/oembed_iframe.php?type=illust&id=91848155" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+
+### 2022/02
+- デジタルでデッサンをしてみようとした
+- どうも真っ黒になるよね
+- 濃淡の細かい調整が難しい
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 52.5%;"><iframe src="https://embed.pixiv.net/oembed_iframe.php?type=illust&id=96113519" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+
+### 2022/03
+- 動画に挑戦した
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@subculscienceclub/video/7072373346016496897" data-video-id="7072373346016496897" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@subculscienceclub" href="https://www.tiktok.com/@subculscienceclub">@subculscienceclub</a> <a title="作りたい女と食べたい女" target="_blank" href="https://www.tiktok.com/tag/%E4%BD%9C%E3%82%8A%E3%81%9F%E3%81%84%E5%A5%B3%E3%81%A8%E9%A3%9F%E3%81%B9%E3%81%9F%E3%81%84%E5%A5%B3">#作りたい女と食べたい女</a> <a title="fa" target="_blank" href="https://www.tiktok.com/tag/fa">#fa</a> <a target="_blank" title="♬ Home Baking - Matthew Beattie" href="https://www.tiktok.com/music/Home-Baking-6999647061629765634">♬ Home Baking - Matthew Beattie</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+
 
 ## 課題
 -  着彩
