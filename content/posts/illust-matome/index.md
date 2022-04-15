@@ -109,3 +109,9 @@ tags: [イラスト,書籍,感想]
   - 作業とそれによってどのような印象の変化が得られるのかがわかっていない
     - 単純に作業量が不足しているのか？
     - まあ、自分で自分の作業に感動できていいかもしらん
+
+## 教材
+
+<a href="https://px.a8.net/svt/ejp?a8mat=3N8ADR+AXJKEY+4QVO+601S1" rel="nofollow">
+<img border="0" width="320" height="50" alt="" src="https://www24.a8.net/svt/bgt?aid=220416399661&wid=002&eno=01&mid=s00000022146001008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=3N8ADR+AXJKEY+4QVO+601S1" alt="">
